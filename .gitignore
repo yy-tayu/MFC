@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/Frist/Frist_MFC/Frist_MFC/Debug
+/Frist/Frist_MFC/Frist_MFC/res
+/Frist/Frist_MFC/.vs/Frist_MFC/v15
+/Frist/Frist_MFC/Debug
